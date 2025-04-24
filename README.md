@@ -2,7 +2,6 @@
 
 ### Aplicação desenvolvida em ReactJS para controlar entradas, saídas e balanço de uma aplicação web financeira
 
-</br>
 ## 🗒️ Features do projeto 🗒️
 
 - Entradas
