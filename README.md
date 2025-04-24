@@ -18,4 +18,4 @@
 -  [Styled-Components](https://www.styled-components.com/)
 
 
-Made with ♥ by Pablo Teixeira :male_detective:
+Made with ♥ by Pablo Teixeira 🤟🏻
